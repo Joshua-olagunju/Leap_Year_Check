@@ -1,6 +1,9 @@
+import time
+
 def message():
 
         print("Please wait!!! we are confirming.")
+        time.sleep(2)
 def check_leap_year():
 
     print("Welcome to the script, this help you\ncheck if any year is a leap year or not")
